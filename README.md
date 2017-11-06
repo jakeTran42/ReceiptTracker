@@ -18,3 +18,15 @@ This Project was build on
   and it is able to take images or upload images from camera to be able to upload to database to user's account.  
   User will be able to scroll through their list of receitps and delete function is working.
   
+## Deployment and Progress  
+
+  App is not yet deployed to appstore as there us currently a bug where taking pictures will not be possible.  
+  Deployment will happen in V.2  
+  
+## Current Version  
+
+  ### V.0 Complete
+  ### V.1 Complete
+  ### V.1.1 In-progress
+  
+  
