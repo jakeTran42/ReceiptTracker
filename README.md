@@ -29,4 +29,12 @@ This Project was build on
   ### V.1 Complete
   ### V.1.1 In-progress
   
-  
+## Author(s)
+
+Written and execution by Jake Tran  
+All Rights Reserve 
+
+## Acknowledgement
+
+..
+..
